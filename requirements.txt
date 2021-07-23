@@ -1,0 +1,6 @@
+matplotlib
+tensorflow >= 2.0.0
+saliency
+witwidget
+pandas
+numpy
